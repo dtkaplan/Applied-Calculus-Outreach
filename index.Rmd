@@ -9,10 +9,14 @@ require(mosaic)
 
 ## Links to Exercises
 
+NOTE: AcroScore is an automated answer collection and grading system.  We're recruiting  volunteers to convert exercises to WebWork or other systems.  If you are using AcroScore, make sure to add `?access=KEY` to each URL, where `KEY` is the AcroScore access code for your course.  Otherwise, you can simply use the URL as is.
+
 * *Applied Calculus*, Hughes-Hallet et al. textbook exercises: 
     * [Chapters together](https://dl.dropbox.com/u/5098197/Exercises/HTML/Textbook-Questions/Textbook-Questions-A.html)
     * By Individual Chapters: [1](https://dl.dropbox.com/u/5098197/Exercises/HTML/Textbook-Chap-1/Textbook-Chap-1-A.html), [2](https://dl.dropbox.com/u/5098197/Exercises/HTML/Textbook-Chap-2/Textbook-Chap-2-A.html), [3](https://dl.dropbox.com/u/5098197/Exercises/HTML/Textbook-Chap-3/Textbook-Chap-3-A.html), [4](https://dl.dropbox.com/u/5098197/Exercises/HTML/Textbook-Chap-4/Textbook-Chap-4-A.html), [5](https://dl.dropbox.com/u/5098197/Exercises/HTML/Textbook-Chap-5/Textbook-Chap-5-A.html), [6](https://dl.dropbox.com/u/5098197/Exercises/HTML/Textbook-Chap-6/Textbook-Chap-6-A.html), [9](https://dl.dropbox.com/u/5098197/Exercises/HTML/Textbook-Chap-9/Textbook-Chap-9-A.html), [10](https://dl.dropbox.com/u/5098197/Exercises/HTML/Textbook-Chap-10/Textbook-Chap-10-A.html)
     
 * [Units-related exercises](https://dl.dropbox.com/u/5098197/Exercises/HTML/AC-Units-Problems/AC-Units-Problems-A.html)
 
-For AcroScore, add `?access=KEY` to each URL, where `KEY` is the AcroScore access code for your course.
+* *StartR in Calculus*: [Draft Book in (PDF)](http://www.mosaic-web.org/go/Repository/DannyKaplan/StartR-August-2012.pdf) & [AcroScore version of exercises in book](https://dl.dropbox.com/u/5098197/Exercises/HTML/AC-StartR-Exercises/AC-StartR-Exercises-A.html)
+
+
