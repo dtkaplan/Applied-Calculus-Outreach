@@ -1,0 +1,9 @@
+Functions of three variables
+======================
+
+<http://tropic.ssec.wisc.edu/real-time/mimic-tpw/natl/main.html>
+
+Problem: 
+* Estimate the derivative with respect to time at a point, say, 100 mi east of the southern tip of Florida. 
+* Estimate the derivative with respect to longitude at that point at [a given time]
+* What do you think the gradient function with respect to latitude and longitude might represent?  Tell a story about what's happening physically in terms of the weather.
